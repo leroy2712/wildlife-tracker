@@ -1,0 +1,13 @@
+.btn-nav {
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 0px;
+}
+
+nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
